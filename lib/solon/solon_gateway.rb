@@ -13,7 +13,7 @@ class SolonGateway
   ERRORS = [:INVALID, :ERROR]
   
   
-  VPS_PROTOCOL = "2.23"
+  VPS_PROTOCOL = "3.00"
   
   TRANSACTIONS = {
     :payment          => 'PAYMENT',
